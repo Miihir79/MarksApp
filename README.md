@@ -36,6 +36,7 @@ https://user-images.githubusercontent.com/66465511/212052066-50302767-5849-48c3-
 ### ***Download the app from here👇***
 [![Marks App](https://img.shields.io/badge/MarksApp✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Miihir79/MarksApp/releases/download/1.0.0/app-debug.apk)
 
+![Banner](https://user-images.githubusercontent.com/66465511/212157080-4b8a29fa-523b-4aed-8278-04df3261a682.png)
 
 #### R8 optimizations result
 
