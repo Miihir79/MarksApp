@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MarksApp</string>
+    <string name="check_answer">Check Answer</string>
+    <string name="you_got_it_right">You got it Right!</string>
+    <string name="solution">Solution:</string>
+    <string name="gravitation">Gravitation</string>
+    <string name="logo">logo</string>
+    <string name="gravity_logo">gravity logo</string>
+    <string name="back">back</string>
+    <string name="next">Next</string>
+</resources>
