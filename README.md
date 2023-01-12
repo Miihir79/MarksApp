@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
-[![Marks App](https://img.shields.io/badge/MarksApp✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Miihir79/newsBreeze/releases/tag/1.0.0)
+[![Marks App](https://img.shields.io/badge/MarksApp✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Miihir79/MarksApp/releases/download/1.0.0/app-debug.apk)
 
 </p>
 
@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/66465511/212052066-50302767-5849-48c3-
   - splashscreen API
 
 ### ***Download the app from here👇***
-[![Marks App](https://img.shields.io/badge/MarksApp✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Miihir79/newsBreeze/releases/tag/1.0.0)
+[![Marks App](https://img.shields.io/badge/MarksApp✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Miihir79/MarksApp/releases/download/1.0.0/app-debug.apk)
 
 
 #### R8 optimizations result
